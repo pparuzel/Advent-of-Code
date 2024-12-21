@@ -1,0 +1,32 @@
+160c160
+< kgk AND sbs -> rcb
+---
+> kgk AND sbs -> z21
+175c175
+< mnm XOR gqb -> z09
+---
+> mnm XOR gqb -> gwh
+203c203
+< y13 AND x13 -> wgb
+---
+> y13 AND x13 -> wbw
+233c233
+< x39 AND y39 -> jct
+---
+> x39 AND y39 -> z39
+241c241
+< dsk OR ptc -> gwh
+---
+> dsk OR ptc -> z09
+253c253
+< wjf XOR ksf -> z39
+---
+> wjf XOR ksf -> jct
+283c283
+< y13 XOR x13 -> wbw
+---
+> y13 XOR x13 -> wgb
+295c295
+< kgk XOR sbs -> z21
+---
+> kgk XOR sbs -> rcb
