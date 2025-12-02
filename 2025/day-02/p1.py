@@ -4,14 +4,14 @@ data = sys.stdin.read().rstrip()
 assert "\n" not in data, "Invalid input"
 
 
-def count_invalid_in_range(low: str, high: str):
+def count_invalid_in_range(low: str, high: str) -> int:
     count = 0
     for num in range(int(low), int(high) + 1):
         s = str(num)
-        s_len_div2, s_len_mod2 = divmod(len(s), 2)
-        if s_len_mod2 != 0:
+        halfpoint, remainder = divmod(len(s), 2)
+        if remainder != 0:
             continue  # could skip faster, optimize using a while loop
-        if s[s_len_div2:] == s[:s_len_div2]:
+        if s[halfpoint:] == s[:halfpoint]:
             count += num
     return count
 
