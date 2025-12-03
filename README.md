@@ -49,7 +49,7 @@ Click to expand.
 
 </details>
 
-<details>
+<details open>
 
 <summary>2025</summary>
 
