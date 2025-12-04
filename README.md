@@ -56,6 +56,7 @@ Click to expand.
 - [Day 01](2025/day-01) - Rotating the safe knob
 - [Day 02](2025/day-02) - Finding IDs that have repeating sequences
 - [Day 03](2025/day-03) - Batteries forming a number of the largest _joltage_
+- [Day 04](2025/day-04) - Removing rolls of paper
 
 </details>
 
