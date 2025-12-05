@@ -57,6 +57,7 @@ Click to expand.
 - [Day 02](2025/day-02) - Finding IDs that have repeating sequences
 - [Day 03](2025/day-03) - Batteries forming a number of the largest _joltage_
 - [Day 04](2025/day-04) - Removing rolls of paper
+- [Day 05](2025/day-05) - Interval mapping for fresh/spoiled food ID ranges
 
 </details>
 
