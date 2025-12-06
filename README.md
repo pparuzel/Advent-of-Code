@@ -63,6 +63,14 @@ Click to expand.
 </details>
 
 
+## How to run
+
+Prepare an input file (e.g., input.txt). Pipe it to the program.
+
+```
+python p2.py < input.txt
+```
+
 [^1]: Otherwise I do not see the point to the challenge.
 [^2]: Depending on how busy I am. I will try.
 [^3]: Maybe language docs sometimes, that's it.
