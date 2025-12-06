@@ -58,6 +58,7 @@ Click to expand.
 - [Day 03](2025/day-03) - Batteries forming a number of the largest _joltage_
 - [Day 04](2025/day-04) - Removing rolls of paper
 - [Day 05](2025/day-05) - Interval mapping for fresh/spoiled food ID ranges
+- [Day 06](2025/day-06) - Cephalopods' math homework - data transpositions & reductions
 
 </details>
 
