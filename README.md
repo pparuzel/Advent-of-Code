@@ -59,6 +59,7 @@ Click to expand.
 - [Day 04](2025/day-04) - Removing rolls of paper
 - [Day 05](2025/day-05) - Interval mapping for fresh/spoiled food ID ranges
 - [Day 06](2025/day-06) - Cephalopods' math homework - data transpositions & reductions
+- [Day 07](2025/day-07) - Tachyon Beams moving & splitting downward
 
 </details>
 
