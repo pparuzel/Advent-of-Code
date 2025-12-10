@@ -11,7 +11,7 @@ points = [tuple(map(int, line.rstrip().split(","))) for line in sys.stdin]
 max_area = 0
 max_pair = (None, None)
 for i, p1 in enumerate(points):
-    for p2 in points[i + 1 :]:
+    for p2 in points[i + 1:]:
         a = area(p1, p2)
         if a > max_area:
             max_area = a

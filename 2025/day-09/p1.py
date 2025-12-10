@@ -12,11 +12,11 @@ def proximity(point: tuple[int, int], to: tuple[int, int]) -> int:
 # (x, y) => (col, row)
 points = [tuple(map(int, line.rstrip().split(","))) for line in sys.stdin]
 min_row, max_row, min_col, max_col = float("inf"), 0, float("inf"), 0
-for p in points:  # find boundaries
-    min_row = min(min_row, p[1])
-    max_row = max(max_row, p[1])
-    min_col = min(min_col, p[0])
-    max_col = max(max_col, p[0])
+for (col, row) in points:  # find boundaries
+    min_row = min(min_row, row)
+    max_row = max(max_row, row)
+    min_col = min(min_col, col)
+    max_col = max(max_col, col)
 
 TOP_LEFT = (min_col, min_row)
 TOP_RIGHT = (max_col, min_row)
