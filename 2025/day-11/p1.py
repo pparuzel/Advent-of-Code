@@ -9,7 +9,7 @@ for line in sys.stdin:
 def count_paths(node: str, target: str) -> int:
     if node == target:
         return 1
-    return sum(count_paths(p) for p in conns[node])
+    return sum(count_paths(p, target) for p in conns[node])
 
 
 ans = count_paths("you", "out")
