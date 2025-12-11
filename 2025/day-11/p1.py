@@ -6,7 +6,7 @@ for line in sys.stdin:
     conns[node] = outs.strip().split()
 
 
-def count_paths(node, target):
+def count_paths(node: str, target: str) -> int:
     if node == target:
         return 1
     return sum(count_paths(p) for p in conns[node])
