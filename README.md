@@ -63,6 +63,7 @@ Click to expand.
 - [Day 08](2025/day-08) - Electrical junction boxes - graphs & disjoint sets
 - [Day 09](2025/day-09) - Calculating max areas of tiles - non-convex polygon and checking rectangle inclusion
 - [Day 10](2025/day-10) - Setting lights & joltages - Integer Linear Programming
+- [Day 11](2025/day-11) - Counting paths through a network - graphs & dfs
 
 </details>
 
