@@ -64,6 +64,7 @@ Click to expand.
 - [Day 09](2025/day-09) - Calculating max areas of tiles - non-convex polygon and checking rectangle inclusion
 - [Day 10](2025/day-10) - Setting lights & joltages - Integer Linear Programming
 - [Day 11](2025/day-11) - Counting paths through a network - graphs & dfs
+- [Day 12](2025/day-12) - Insane NP-hard polyomino tiling problem solved with a cheeky and ignorant approach :)
 
 </details>
 
